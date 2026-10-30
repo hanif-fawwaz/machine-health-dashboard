@@ -25,8 +25,7 @@ Project_samsung_dasboard/
 ├── requirements.txt    # Dependensi pustaka Python
 ├── .env.example        # Template konfigurasi kredensial (tanpa rahasia)
 ├── .gitignore          # Mengabaikan .env, __pycache__, logs, dll.
-├── PRD.md              # Dokumen Product Requirements & Kontrak MQTT
-├── design.md           # Dokumen Desain Visual & UI Guidelines
+├── machine_health_monitor.ino         # Code Wokwi Project
 └── README.md           # Panduan lengkap instalasi, arsitektur, dan cara tes
 ```
 
